@@ -33,14 +33,20 @@ La función Coseno, desde mi punto de vista fue la más dificil. Esto fue por qu
 <img width="477" height="118" alt="FuncionCosenoMatematica" src="https://github.com/user-attachments/assets/7ddcb6bf-3c9a-4f61-acda-82d6c493dfa2" />
 
 
-
 ### Pruebas
+<img width="1920" height="745" alt="PruebaFucionCos1" src="https://github.com/user-attachments/assets/205af136-a60e-457f-a871-0abcc8f23138" />
+En está prueba se puede ver qe correctamente calcúla el valor de coseno de 2. Al utilizar 8 elementos en la sumatoria, da una aproximación muy cercana. (Edite la ecuación para calcular el porcentaje de exactitud porque daba un numero desconocido)
 
+<img width="1911" height="853" alt="PruebaFucionCos2" src="https://github.com/user-attachments/assets/49297ed3-d19e-4ae3-8380-6b6a59ee8b5e" />
+En esta prueba ya intento encontrar el coseno de un número más grande. Inevitablemente esto baja exactitud, hasta cuando tengo la misma cantidad de elementos que la prueba pasada.
 
+<img width="1920" height="816" alt="CosenoPrueba3" src="https://github.com/user-attachments/assets/5eb0f98f-c1a3-40e4-85a3-9869d3d1005e" />
+En está prueba muestra que cuando ya ingresas números muy grandes, empieza a evaluar erroneamente. Esto se debe a las sumatorias que el programa tiene que calcular. Sumatoria de 10 es un cálculo que requiere mucho y tienen que empezar a haber muchos elementos en la sumatoria para que empieze a dar resultados cercanos.
 
 ### Código
 <img width="870" height="800" alt="CosenoCodigo" src="https://github.com/user-attachments/assets/4818b4b0-98fa-4d9d-af30-e5e9166ee2d6" />
 https://play.haskell.org/saved/hShc5QyK
+
 
 
 ## Funcion Logaritmo Natural
