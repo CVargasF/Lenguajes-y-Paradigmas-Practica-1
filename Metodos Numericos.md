@@ -52,11 +52,18 @@ https://play.haskell.org/saved/hShc5QyK
 ## Funcion Logaritmo Natural
 
 ### Explicación
-La función logaritmo fue la última, y fue la que menos me tardo en crear. Está fue la más fácil por su manera
+La función logaritmo natural de n+1 fue la última, y fue la que menos me tardo en crear. Está fue rápida de hacer por sus similitudes a la anterior. Pero, quiero creer que es muy inesacta por su uso de exponentes. No me siento seguro diciendo que está es la solución para este programa pero no encontre cual podrá haber sido el problema.
 
 <img width="731" height="127" alt="LogaritmoNaturalMatematico" src="https://github.com/user-attachments/assets/85b624ca-9f52-4c74-9741-32b0a372d9b0" />
 
+
 ### Pruebas
+<img width="1920" height="801" alt="PruebaFuncionLog" src="https://github.com/user-attachments/assets/de270979-0f1b-4f76-8de6-7002474b086e" />
+
+
+
 
 ### Código
+<img width="1890" height="837" alt="EcuacionlogaritmoiNatural" src="https://github.com/user-attachments/assets/ba45eb9a-03a8-4438-8264-4982ba9162f0" />
+https://play.haskell.org/saved/YGJKJL9D
 
