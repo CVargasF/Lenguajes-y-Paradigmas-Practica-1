@@ -51,9 +51,10 @@ https://play.haskell.org/saved/hShc5QyK
 
 ## Funcion Logaritmo Natural
 
-
-
 ### Explicación
+La función logaritmo fue la última, y fue la que menos me tardo en crear. Está fue la más fácil por su manera
+
+<img width="731" height="127" alt="LogaritmoNaturalMatematico" src="https://github.com/user-attachments/assets/85b624ca-9f52-4c74-9741-32b0a372d9b0" />
 
 ### Pruebas
 
